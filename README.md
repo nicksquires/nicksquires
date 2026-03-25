@@ -34,8 +34,8 @@ A modern companion app with a robust rules engine, complete data seeding, authen
 
 ---
 
-### KatsBooks Inventory System
-Inventory management system built for a local bookstore. Clean UI, real-time stock tracking, and admin dashboard.
+### KatsBooks Bookkeeping Company Website
+Static company information website built for an independent bookkeeping firm to their specifications. Clean, minimalistic UI
 
 - **Live Demo**: [katsbooks.vercel.app](https://katsbooks.vercel.app)
 - **Source Code**: [github.com/nicholassquires/katsbooks](https://github.com/nicholassquires/katsbooks)
