@@ -74,4 +74,4 @@ Static company information website built for an independent bookkeeping firm to 
 ---
 
 **Thanks for stopping by!**  
-Whether you're a fellow dev, a client, or just curious about my work — feel free to reach out. I'm always up for a good chat about full-stack architecture, web accessibility, or creative tech tools. ✨
+Whether you're a fellow dev, a client, or just curious about my work - feel free to reach out. I'm always up for a good chat about full-stack architecture, web accessibility, or creative tech tools. ✨
